@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rolling</string>
+    <string name="play_btn">התחל משחק</string>
+    <string name="purchased_btn">פריטים שלי</string>
+    <string name="shop_btn">חנות</string>
+    <string name="shop_TextView">חנות</string>
+    <string name="level1_text">"שלב 1 "</string>
+    <string name="level2_text">שלב 2</string>
+    <string name="level3_text">שלב 3</string>
+    <string name="level4_text">שלב 4</string>
+    <string name="level5_text">שלב 5</string>
+    <string name="level6_text">שלב 6</string>
+    <string name="level8_text">שלב 8</string>
+    <string name="level9_text">שלב 9</string>
+    <string name="level10_text">שלב 10</string>
+    <string name="level7_text">שלב 7</string>
+    <string name="numPlace_text">מקום</string>
+    <string name="score_text">תוצאה</string>
+    <string name="congratulations_text">מזל טוב !</string>
+    <string name="bestScore_text">"התוצאה הכי טובה: "</string>
+    <string name="tryAgain_btn">נסה/י שוב</string>
+    <string name="gameOver_text">המשחק נגמר</string>
+    <string name="your_score_text">"התוצאה שלך: "</string>
+    <string name="nextLevel_text">לשלב הבא</string>
+    <string name="home_text">למסך הראשי</string>
+    <string name="levelFinished_text">"עברת שלב "</string>
+    <string name="bestScoreAnnouncement">התוצאה הכי טובה !</string>
+    <string name="purchased_TextView">הפריטים שלי</string>
+    <string name="default_text">ברירת מחדל</string>
+    <string name="available_text">זמין</string>
+</resources>

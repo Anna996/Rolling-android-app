@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/game_background_6"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:text="@string/congratulations_text"
+            android:textSize="40sp"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/levelFinished_text"
+            android:textSize="30sp"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/your_score_text"
+            android:textSize="20sp"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:text="@string/bestScoreAnnouncement"
+            android:textSize="15sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:id="@+id/bestScoreAnnouncement_TV"/>
+
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="150"
+            android:textSize="50sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:background="@drawable/score_textview_shape"
+            android:id="@+id/score_TextView"/>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:text="@string/nextLevel_text"
+        android:textSize="30sp"
+        android:textAllCaps="false"
+        android:background="@drawable/main_btn_shape"
+        android:textColor="@color/white"
+        android:id="@+id/nextLevel_btn"/>
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:text="@string/home_text"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        android:background="@drawable/main_btn_shape"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/home_btn"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/stars_image"/>
+
+</LinearLayout>

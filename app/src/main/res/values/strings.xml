@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Rolling</string>
+    <string name="game_name" translatable="false">Rolling</string>
+    <string name="play_btn">Play</string>
+    <string name="purchased_btn">Purchased</string>
+    <string name="shop_btn">Shop</string>
+    <string name="levels_activity" translatable="false">Levels activity</string>
+    <string name="shop_activity" translatable="false">Shop activity</string>
+    <string name="shop_TextView">SHOP</string>
+    <string name="level1_text">Level 1</string>
+    <string name="level2_text">Level 2</string>
+    <string name="level3_text">Level 3</string>
+    <string name="level4_text">Level 4</string>
+    <string name="level5_text">Level 5</string>
+    <string name="level6_text">Level 6</string>
+    <string name="level8_text">Level 8</string>
+    <string name="level9_text">Level 9</string>
+    <string name="level10_text">Level 10</string>
+    <string name="level7_text">Level 7</string>
+    <string name="numPlace_text">"# "</string>
+    <string name="score_text">Score</string>
+    <string name="game_activity" translatable="false">Game activity</string>
+    <string name="congratulations_text">Congratulations !</string>
+    <string name="bestScore_text">Best score:</string>
+    <string name="tryAgain_btn">Try Again</string>
+    <string name="gameOver_text">Game Over</string>
+    <string name="your_score_text">Your score:</string>
+    <string name="nextLevel_text">Next Level</string>
+    <string name="home_text">Home</string>
+    <string name="levelFinished_text">Level Finished</string>
+    <string name="bestScoreAnnouncement">Best score !</string>
+    <string name="purchased_TextView">My Items</string>
+    <string name="default_text">Default</string>
+    <string name="available_text">Available</string>
+</resources>
