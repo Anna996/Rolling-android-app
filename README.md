@@ -8,4 +8,4 @@ Each level has its own enemies and speed. Each level has a unique theme.
 
 It also has a store where the user can buy different figures and use them.  
 
-<b >The project was written by Adi Amana and I <b/>
+<b >The project was written by Adi Amana and Anna Aba <b/>
